@@ -1,3 +1,10 @@
+/*
+Oct 29th, 2021
+Dr T. TCC
+Physics Calucaltor
+Fundamentals of getters and setters and how menus operate along with functions
+*/
+
 #include <iostream>
 #include "Input_Validation_Extended.h"
 #include <cmath>
